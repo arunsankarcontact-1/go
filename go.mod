@@ -1,4 +1,4 @@
-module s3list
+module github.com/arunsankarcontact-1/GO
 
 go 1.25.6
 
