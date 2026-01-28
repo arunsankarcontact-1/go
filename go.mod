@@ -1,4 +1,4 @@
-module github.com/arunsankarcontact-1/GO
+module github.com/arunsankarcontact-1/go
 
 go 1.25.6
 
