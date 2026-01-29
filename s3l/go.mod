@@ -1,4 +1,4 @@
-module github.com/arunsankarcontact-1/go
+module github.com/arunsankarcontact-1/s3l/go
 
 go 1.22
 
